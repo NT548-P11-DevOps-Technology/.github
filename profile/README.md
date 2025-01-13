@@ -1,6 +1,6 @@
 # Implementing a DevSecOps model for High Availability CI/CD System in Microservices environments
 
-Welcome to the GitHub organization for the my team (Group 03). This organization hosts repositories for our project titled **Implementing a DevSecOps Model for a High Availability CI/CD System in a Microservices Environment**. Below, you'll find an overview of each repository and its purpose.
+Welcome to the GitHub organization for the my team (Group 03). This organization hosts repositories for our project titled **Implementing a DevSecOps Model for a High Availability CI/CD System in a Microservices Environment**.
 
 Our organization aims to implement a streamlined DevSecOps workflow for high availability and efficiency. Below are two diagrams that illustrate the core processes:
 
@@ -15,6 +15,8 @@ Our organization aims to implement a streamlined DevSecOps workflow for high ava
 <p align="center">
     <img src="../images/CICD.png" alt="CI/CD pipeline architecture"></img>
 </p>
+
+Below, you'll find an overview of each repository and its purpose.
 
 ## Microservices Repositories
 
