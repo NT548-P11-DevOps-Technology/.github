@@ -1,8 +1,8 @@
 # Implementing a DevSecOps model for High Availability CI/CD System in Microservices environments
 
-Welcome to the GitHub organization for the my team (Group 03). This organization hosts repositories for our project titled **Implementing a DevSecOps Model for a High Availability CI/CD System in a Microservices Environment**. Below, you'll find an overview of each repository and its purpose.
+Welcome to the GitHub organization for my team (Group 03). This organization hosts repositories for our project titled **Implementing a DevSecOps Model for a High Availability CI/CD System in a Microservices Environment**. In the next section, you'll find an overview of each repository and its purpose.
 
-Our organization aims to implement a streamlined DevSecOps workflow for high availability and efficiency. Below are two diagrams that illustrate the core processes:
+Our organization aims to implement a streamlined DevSecOps workflow for high availability and efficiency. Below are the diagrams that illustrate the core processes:
 
 ### Provisioning & Configuration Management
 
@@ -14,6 +14,12 @@ Our organization aims to implement a streamlined DevSecOps workflow for high ava
 
 <p align="center">
     <img src="../images/CICD.png" alt="CI/CD pipeline architecture"></img>
+</p>
+
+### Cloud Architecture
+
+<p align="center">
+    <img src="../images/Cloud-Architecture.png" alt="Cloud Architecture"></img>
 </p>
 
 ## Microservices Repositories
@@ -44,15 +50,27 @@ These repositories manage the infrastructure and deployment of the application:
 - **Technologies**: Terraform.
 - **Purpose**: Automates the provisioning of cloud resources, including VPCs, subnets, EC2 instances, Amazon EKS, and other AWS services.
 
+<p align="center">
+    <img src="../images/Terraform.png" alt="Terraform" width="100"></img>
+</p>
+
 ### 👉 [**ansible-hub**](https://github.com/NT548-P11-DevOps-Technology/ansible-hub)
 - **Description**: Houses Ansible playbooks for configuration management.
 - **Technologies**: Ansible.
 - **Purpose**: Automates the configuration of servers, including software installations and environment setups.
 
+<p align="center">
+    <img src="../images/Ansible.png" alt="Ansible" width="100"></img>
+</p>
+
 ### 👉 [**kubernetes-hub**](https://github.com/NT548-P11-DevOps-Technology/kubernetes-hub)
 - **Description**: Contains Kubernetes manifests for deploying microservices.
 - **Technologies**: Kubernetes, Helm.
 - **Purpose**: Manages the deployment and scaling of microservices in the Kubernetes cluster.
+
+<p align="center">
+    <img src="../images/Kubernetes.png" alt="Kubernetes" width="100"></img>
+</p>
 
 ## Contact
 
