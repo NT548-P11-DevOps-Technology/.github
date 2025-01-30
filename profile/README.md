@@ -28,18 +28,23 @@ These repositories contain the source code for the microservices that make up th
 
 ### 1. [**class-management-FE**](https://github.com/NT548-P11-DevOps-Technology/class-management-FE)
 - **Description**: Frontend application for the class management system.
+- **TechStack**: JavaScript, ReactJS
 
 ### 2. [**class-management-auth-service**](https://github.com/NT548-P11-DevOps-Technology/class-management-auth-service)
 - **Description**: Authentication service.
+- **TechStack**: JavaScript, Node.js, Express, MySQL
 
 ### 3. [**class-management-student-service**](https://github.com/NT548-P11-DevOps-Technology/class-management-student-service)
 - **Description**: Handles operations related to student management.
+- **TechStack**: Java, Spring Boot framework, MySQL
 
 ### 4. [**class-management-lecturer-service**](https://github.com/NT548-P11-DevOps-Technology/class-management-lecturer-service)
 - **Description**: Handles operations related to lecturer management.
+- **TechStack**: Python, Flask, MongoDB
 
 ### 5. [**class-management-class-service**](https://github.com/NT548-P11-DevOps-Technology/class-management-class-service)
 - **Description**: Handles operations related to class management.
+- **TechStack**: PHP, PostgreSQL
 
 ## Infrastructure Repositories
 
