@@ -115,15 +115,23 @@ Below are the official documentation links for the key technologies used in this
 
 - [Ansible](https://docs.ansible.com)
 
+- [Docker](https://docs.docker.com)
+
 - [Kubernetes](https://kubernetes.io/docs)
 
 - [GitHub Actions](https://docs.github.com/en/actions)
 
 - [FluxCD](https://fluxcd.io/docs)
 
+- [Checkov](https://www.checkov.io/1.Welcome/Quick%20Start.html)
+
 - [Snyk](https://snyk.io/docs)
 
 - [SonarQube](https://docs.sonarqube.org)
+
+- [Trivy](https://aquasecurity.github.io/trivy)
+
+- [HashiCorp Vault](https://developer.hashicorp.com/vault/docs)
 
 - [Harbor Registry](https://goharbor.io/docs)
 
@@ -133,12 +141,6 @@ Below are the official documentation links for the key technologies used in this
 
 - [Loki](https://grafana.com/docs/loki/latest)
 
-- [Trivy](https://aquasecurity.github.io/trivy)
-
 ## 💪 Contact
 
 For any questions or issues, please reach out to the team through the repository's Issues section or contact the organization administrators directly.
-
----
-
-We hope this documentation helps you navigate our repositories efficiently. Thank you for visiting our organization!
